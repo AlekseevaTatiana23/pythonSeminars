@@ -33,3 +33,9 @@ print(list(data.keys()))
 print(list(data.items()))
 for k, v in data.items():
     print(k, v)
+    
+"""informatics.msk.ru
+acmp.ru
+e-olymp(vpn)
+codewars
+codeforce"""
